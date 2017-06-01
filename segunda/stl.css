@@ -1,0 +1,12 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    width: 960px;
+}
+img {
+    margin-top: 3em;
+}
+span {
+    color: white;
+    background: redi;
+}

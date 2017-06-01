@@ -51,7 +51,7 @@
         * cor, borda, margem
 
 ## quarta
-![jsevo](jsevo.png)
+![jsevo](jsevo.svg)
 * modelos de interação
     * estático
     * formulário
@@ -69,6 +69,3 @@
 * fundamentos teóricos
     * assíncrono
     * funcional
-
-## quinta
-![1/60](16.png)
