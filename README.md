@@ -1,6 +1,6 @@
 # fuxicadinha PAW0
-* 29/05 a 02/06 (semana que vem)
-* começa as 15:45
+* 05/06 a 09/06 (semana que vem)
+* começa as 17:45
 * não há pré requisito
 
 ## segunda
@@ -51,7 +51,7 @@
         * cor, borda, margem
 
 ## quarta
-![jsevo](jsevo.svg)
+![jsevo](jsevo.png)
 * modelos de interação
     * estático
     * formulário
