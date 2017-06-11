@@ -1,0 +1,24 @@
+body {
+  margin: 0 auto;
+  padding-top: 5em;
+  max-width: 960px;
+  text-align: center;
+  background-color: black;
+  color: red;
+}
+img {
+  border-radius: 20em;
+}
+#exism {
+  padding: 0 16em;
+    font-family: 'Prociono', serif;
+}
+.cinzel {
+  font-family: 'Cinzel', serif;
+}
+.vertical-text {
+	transform: rotate(90deg);
+	transform-origin: left bottom 0;
+	display: inline-block;
+}
+

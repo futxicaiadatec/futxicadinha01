@@ -1,0 +1,10 @@
+body {
+  margin: 0 auto;
+  max-width: 960px;
+  text-align: center;
+}
+#colorboard {
+  height: 240px;
+  width: 240px;
+  margin: 5em auto;
+}

@@ -1,0 +1,9 @@
+{
+  "name": "futxicadinha01",
+  "version": "0.0.1",
+  "description": "ambiente de apresentação e prototipagem para futxicadinha web0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futxicaiadatec/futxicadinha01.git"
+  }
+}
