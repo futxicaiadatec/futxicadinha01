@@ -1,0 +1,11 @@
+<svg width="185mm" height="118mm" version="1.1" viewBox="0 0 185.07133 118.02306" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(-22.7 -37.1)" fill-rule="evenodd" stroke-width=".265">
+<rect x="23.1" y="49.8" width="38.9" height="38.9" fill="#00f"/>
+<circle cx="42.5" cy="135" r="19.8" fill="#f00"/>
+<g transform="translate(-4.77e-6)">
+<rect x="157" y="37.1" width="21.5" height="64.4" fill="#00f"/>
+<ellipse cx="168" cy="135" rx="39.8" ry="13.3" fill="#f00"/>
+</g>
+<rect transform="rotate(-45)" x="-16" y="128" width="44.9" height="27.8" fill="#00f"/>
+</g>
+</svg>

@@ -1,0 +1,30 @@
+body {
+    margin:         0 auto;
+    text-align:     center;
+    width:          960px;
+    padding-top:    3em;
+}
+body > svg {
+    border: 1px solid red;
+}
+#retangulo1 {
+
+}
+#linha1 {
+    stroke:blue;
+    stroke-width:32;
+    stroke-linecap:round;
+}
+.red {
+    fill: red;
+}
+.green {
+    fill: green;
+}
+.blue {
+    fill: blue;
+}
+.rect {
+    stroke:black;
+    stroke-width:8;
+}

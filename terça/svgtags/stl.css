@@ -1,0 +1,16 @@
+body {
+    margin:         0 auto;
+    text-align:     center;
+    width:          960px;
+    padding-top:    3em;
+}
+body > svg {
+    border: 1px solid red;
+}
+#elipse {
+    stroke-width:16;
+    stroke:DodgerBlue;
+    fill:RoyalBlue;
+    fill-opacity:0.3;
+    stroke-opacity:0.8;
+}
