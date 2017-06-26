@@ -14,3 +14,18 @@ body > svg {
     fill-opacity:0.3;
     stroke-opacity:0.8;
 }
+.circle {
+    fill-opacity:1;
+}
+#red {
+    fill:red;
+}
+#green {
+    fill:green;
+}
+#blue {
+    fill:blue;
+}
+#black {
+    fill:white;
+}

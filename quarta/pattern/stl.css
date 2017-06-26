@@ -1,0 +1,9 @@
+body {
+    margin:         0 auto;
+    text-align:     center;
+    width:          960px;
+    padding-top:    3em;
+}
+body > svg {
+    border: 1px solid red;
+}

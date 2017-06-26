@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <title>caminhos livres</title>
+    <link rel="stylesheet" href="stl.css">
+    <script src="run.js" defer></script>
+  </head>
+  <body>
+    <svg viewBox="0 0 160 90">
+        <defs>
+          <pattern id="c1" x="10" y="10" width="20" height="20" patternUnits="userSpaceOnUse" >
+              <circle cx="10" cy="10" r="10" stroke="none" fill="blue" />
+          </pattern>
+        </defs>
+        <rect id="frame" x="0" y="0" width="50" height="50" stroke="red" fill="url(#c1)" />
+    </svg>
+    <input type="range" id="dial" min="0" max="100" step="1" value="0">
+  </body>
+</html>

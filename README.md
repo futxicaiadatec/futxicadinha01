@@ -4,7 +4,7 @@
 * não há pré requisito
 
 ## segunda
-![barco](./navegação.png)
+![barco](navegação.png)
 * apresentação
     * projeto de extensão
     * rapidinhas
