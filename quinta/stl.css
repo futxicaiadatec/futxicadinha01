@@ -5,7 +5,6 @@ body {
 }
 body > svg {
     border: 1px solid red;
-	width:940px;
-	height:940px;
+	width:90px;
+	height:90px;
 }
-
