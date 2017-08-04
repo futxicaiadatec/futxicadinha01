@@ -16,13 +16,9 @@ function componentToHex(c) {
 	}).then(function(result){
 		const pxjson=[];
 		for(let i=0; i<result.data.length/4; i++){
-			let linha = Math.trunc(i/result.shape[0]);
-			let coluna = i%result.shape[0];
-			let filename = Math.random().toString().substring(3)+".json";
 			pxjson.push({
-				i:linha+1,
-				j:coluna+1,
-				file:filename,
+				i:Math.trunc(i/result.shape[0])+1,
+				j:i%result.shape[0]+1,
 				red:result.data[4*i],
 				green:result.data[4*i+1],
 				blue:result.data[4*i+2],
