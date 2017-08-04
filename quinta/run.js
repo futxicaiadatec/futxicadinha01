@@ -1,4 +1,4 @@
-// https://www.npmjs.com/package/get-pixels
+// https://www.npmjs.com/package/get-pixels -> https://wzrd.in/
 // https://stackoverflow.com/questions/5623838/rgb-to-hex-and-hex-to-rgb
 function componentToHex(c) {
     var hex = c.toString(16);
@@ -29,9 +29,7 @@ function componentToHex(c) {
 				alfa:result.data[4*i+3]
 			});
 		}
-		return pxjson.sort(function(a,b){
-			return a.file.localeCompare(b.file)
-		});
+		return pxjson;
 	});
 })("9.png").then(function(result){
 	const svg = document.getElementsByTagName("svg")[0];
